@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository."
+type: software
+title: "Peak-Power-and-Acoustic-Biofeedback"
+
+authors:
+  - family-names: "Ferro"
+    given-names: "Janine"
+  - family-names: "Furk"
+    given-names: "Dania"
+  - family-names: "Silva"
+    given-names: "Luís"
+  - family-names: "Gamboa"
+    given-names: "Hugo"
+
+repository-code: "https://github.com/Janine-17/Peak-Power-and-Acoustic-Biofeedback/"
