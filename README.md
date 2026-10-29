@@ -1,7 +1,7 @@
 # ASTROPOWER
 ## Project Overview
-This repository contains the Python scripts developed to process and analyse kinetic, kinematic, and electromyographic recordings collected during the ASTROPOWER project's study. 
-The dataset will be publicly available on Zenodo (https://zenodo.org/records/22960690) and the processing pipeline was developed as part of a Master Thesis
+This repository contains the python scripts developed to process and analyse kinetic, kinematic, and electromyographic recordings collected during the ASTROPOWER project's study. 
+The dataset will be publicly available on Zenodo (https://zenodo.org/records/22960690) and the processing pipeline was developed as part of a Master Thesis entitled "Intra and Intermusuclar Coordination Influence on Muscle Power Production".
 
 The intervention study aimed to investigate the effects of acoustic biofeedback (ABF) compared with conventional gym music (GM) on muscle power production in older males and females over time. Specifically, the study examined changes in muscle power throughout the training intervention and the impact of ABF on the progression of muscle power with training. Additionally, the study explored whether peak power could be predicted from neuromuscular characteristics.
 
@@ -99,8 +99,8 @@ Each module can be run as part of the main pipeline, which is controlled by `mai
 The `config.py` file centralizes file names and paths, making it easier to manage input and output locations without changing paths throughout the codebase.
 
 ## Installation
-This project was developed using Python 3.12.
-After downloading or cloning the repository, open a terminal in the project directory and install the required Python packages using:
+This project was developed using python 3.12.
+After downloading or cloning the repository, open a terminal in the project directory and install the required python packages using:
 
 'pip install -r requirements.txt'
 This command installs the dependencies specified in requirements.txt.
@@ -128,7 +128,7 @@ python main.py
 The recordings included in the dataset are provided in their original, unprocessed format, without interpolation or correction of missing values. This allows users to independently select and apply missing-data handling strategies according to their analytical objectives.
 
 ## Citation
-If you use or adapt the Python scripts provided in this repository, please acknowledge the ASTROPOWER project and cite the repository and associated scientific resources.
+If you use or adapt the python scripts provided in this repository, please acknowledge the ASTROPOWER project and cite the repository and associated scientific resources.
 
 ## Data Availability 
 "Acoustic BioPower Training in Aging Dataset" available on Zenodo: https://zenodo.org/records/22960690
