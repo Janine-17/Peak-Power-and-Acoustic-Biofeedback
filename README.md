@@ -3,7 +3,7 @@
 This repository contains the Python scripts developed to process and analyse kinetic, kinematic, and electromyographic recordings collected during the ASTROPOWER project's study. 
 The dataset will be publicly available on Zenodo (https://zenodo.org/records/22960690) and the processing pipeline was developed as part of a Master Thesis
 
-What is this study?
+The intervention study aimed to investigate the effects of acoustic biofeedback (ABF) compared with conventional gym music (GM) on muscle power production in older males and females over time. Specifically, the study examined changes in muscle power throughout the training intervention and the impact of ABF on the progression of muscle power with training. Additionally, the study explored whether peak power could be predicted from neuromuscular characteristics.
 
 ASTROPOWER is a European Space Agency (ESA)-funded project under the PRODEX programme that explores the parallels between the physiological effects of ageing on Earth and exposure to microgravity in space. 
 The project focuses particularly on the decline in skeletal muscle power-generating capacity and investigates the potential of electromyography-based acoustic biofeedback as a strategy to enhance exercise performance and support countermeasures against neuromuscular deterioration.
